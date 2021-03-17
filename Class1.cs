@@ -50,7 +50,7 @@ namespace ClassSwap
         private int spiderEquipped;
         private int mantisHits;
         //Counts bee combo.
-        private int beeCombo;
+        private int beeCombo; 
         private int beetleCombo;
         //If bee has parried.
         private bool beetleParried;
